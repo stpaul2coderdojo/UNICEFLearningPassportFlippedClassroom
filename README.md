@@ -86,7 +86,8 @@ studentN --> airMouse : "Uses Air Mouse for Input"
 
 @enduml
 ```
-
+![hackforest architecture](https://github.com/user-attachments/assets/957c6bc4-6995-4ec8-b1b3-960e3d30ffc0)
+)
 ## Components
 
 ### 1. **Azure WebApp**
